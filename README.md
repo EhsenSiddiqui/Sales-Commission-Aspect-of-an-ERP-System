@@ -46,3 +46,11 @@ The timeline for this project was as follows:
 
 <li>Change in user interface in real time when the user performs any action. <br> </li>
 </ul>
+
+I used the following tools for creating this web app: 
+
+<ul>
+ <li> PHP for backend </li>
+ <li> MySQL for database </li>
+ <li> HTML, CSS, and Bootstrap for frontend </li>
+</ul> 
